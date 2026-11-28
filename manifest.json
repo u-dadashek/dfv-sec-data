@@ -1,0 +1,30 @@
+{
+  "sec": {
+    "at": "2026-11-28T12:15:17.135Z",
+    "rows": 6976,
+    "ok": true
+  },
+  "history": {
+    "at": "2026-11-28T12:15:17.135Z",
+    "files": 5270,
+    "expected": 5270,
+    "ok": true,
+    "error": null
+  },
+  "dq": {
+    "at": "2026-11-28T12:15:17.136Z",
+    "week": "2026-W48",
+    "companies": 5270,
+    "flagged": 4481,
+    "counts": {
+      "gap": 973,
+      "avg_gap": 2054,
+      "rev_restated": 1255,
+      "share_jump": 932,
+      "interest_cash_paid": 2199,
+      "bs_gap": 1643,
+      "roe_over_100": 407,
+      "zero_absent": 776
+    }
+  }
+}
