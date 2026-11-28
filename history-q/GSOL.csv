@@ -1,0 +1,11 @@
+period_end,kind,fiscal_year,revenue,cost_of_revenue,gross_profit,operating_income,da,ebitda,interest_expense,pretax_income,income_tax,net_income,net_income_common,preferred_dividends,eps,shares_basic,shares_diluted,shares_outstanding,cash,short_term_investments,receivables,inventory,current_assets,total_assets,current_liabilities,total_liabilities,short_term_debt,long_term_debt,debt,preferred_stock,minority_interest,equity,goodwill_intangibles,tangible_equity,retained_earnings,cfo,capex,cfi,cff,acquisitions,dividends_paid,buybacks,issuance,assets_avg,shares,sfcf,ncf,gross_margin,ebitda_margin,asset_turnover,toa,gross_inc_toa,cfebit,cfebit_toa,invested_capital,roic,crosic,book_ps,tangible_book_ps,dps,bm_eps,noncurrent_liabilities,net_excess_cash,net_common_overhang,operating_lease_current,operating_lease_noncurrent,split_adjusted,split_factor,dq_flags
+2026-09-30,Q,2026,,,,,,,,,,62576000,62576000,,,,,24014135,,,,,,213468000,,2000,,,,,,,,,,,,,,,-607769,,,157315000,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-30,Q,2026,,,,,,,,,,-11587000,-11587000,,,,,18274135,,,,,,101162000,,1000,,,,,,,,,,,,,,,,,,103143500,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-03-31,Q,2026,,,,,,,,,,-54684000,-54684000,,,,,17114135,,,,,,105125000,,7000,,,,,,,,,,,,,,,,,,132776500,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-12-31,Q,2025,,,,,,,,,,-55201000,-55201000,,,,,17634135,0,0,,,,160428000,,71000,,,,,,,,,,,,,,,,,,135075500,,,,,,,160428000,,,,,,,,,,,,,,,,,,
+2025-09-30,Q,2025,,,,,,,,,,26324000,26324000,,,,,7231035,,,,,,109723000,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-06-30,Q,2025,,,,,,,,,,16787000,16787000,,,,,7231035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-03-31,Q,2025,,,,,,,,,,-37237000,-37237000,,,,,7221835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-12-31,Q,2024,,,,,,,,,,19620000,19620000,,,,,7160335,0,0,,,,102631000,,0,,,,,,,,,,,,,,,,,,,,,,,,,102631000,,,,,,,,,,,,,,,,,,
+2024-09-30,Q,2024,,,,,,,,,,4512000,4512000,,,,,6830135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,DQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gap:total_assets:2025q1-2025q2

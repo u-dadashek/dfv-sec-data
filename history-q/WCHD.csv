@@ -1,0 +1,12 @@
+period_end,kind,fiscal_year,revenue,cost_of_revenue,gross_profit,operating_income,da,ebitda,interest_expense,pretax_income,income_tax,net_income,net_income_common,preferred_dividends,eps,shares_basic,shares_diluted,shares_outstanding,cash,short_term_investments,receivables,inventory,current_assets,total_assets,current_liabilities,total_liabilities,short_term_debt,long_term_debt,debt,preferred_stock,minority_interest,equity,goodwill_intangibles,tangible_equity,retained_earnings,cfo,capex,cfi,cff,acquisitions,dividends_paid,buybacks,issuance,assets_avg,shares,sfcf,ncf,gross_margin,ebitda_margin,asset_turnover,toa,gross_inc_toa,cfebit,cfebit_toa,invested_capital,roic,crosic,book_ps,tangible_book_ps,dps,bm_eps,noncurrent_liabilities,net_excess_cash,net_common_overhang,operating_lease_current,operating_lease_noncurrent,split_adjusted,split_factor,dq_flags
+2024-04-30,Q,2024,,,,,,,,,,-63537,-63537,,0,10573271545,,,0,0,,,,,,,,,,,,,,,-206406,-63537,,,63537,,,,,,10573271545,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-31,Q,2024,,,,,,,,,,-48010,-48010,,0,10573271545,,,0,0,,,,,,,,,,,,,,,-142869,-48010,,,48010,,,,,,10573271545,,,,,,,,,,,,,,,,,,,,,,,,
+2023-10-31,Q,2023,,,,,,,,,,-42350,-42350,,0,10573271545,,,,,,,,,,,,,,,,,,,,-42350,,,42350,,,,,,10573271545,,,,,,,,,,,,,,,,,,,,,,,,
+2023-07-31,Q,2023,,,,,,,,,,-14250,-14250,,-0.000001347738014,10573271550,,10573271545,,,,,,,,,,,,,,,,,-52509,-14250,,,14250,,,,,,10573271550,,,,,,,,,,,,,,,,,,,,,,,,
+2023-04-30,Q,2023,,,,,,,,,,-7199,-7199,,0,10573271545,,,,,,,,,,,,,,,,,,,-38259,-7199,,,7199,,,,,,10573271545,,,,,,,,,,,,,,,,,,,,,,,,
+2023-01-31,Q,2023,,,,,,,,,,-5800,-5800,,0,6660228067,,,,,,,,,,,,,,,,,,,-31060,-5800,,,5800,,,,,,6660228067,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-31,Q,2022,,,,,,,,,,-7450,-7450,,0,573271545,,573271545,,,,,,,,,,,,1,,,,,-25260,-7450,,,7450,,,,,,573271545,,,,,,,,,,,,,,,,,,,,,,,,
+2022-07-31,Q,2022,,,,,,,,,,-4500,-4500,,,,,573271545,,,,,,,,,,,,1,,,,,-17810,-5700,,,5700,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-30,Q,2022,,,,,,,,,,-5850,-5850,,,,,573271545,,,,,,,,1200,,,,1,,-1200,0,-1200,-13310,-5000,,,5000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-01-31,Q,2022,,,,,,,,,,-1900,-1900,,,,,573271545,,,,,,,,350,,,,1,,-350,0,-350,-7460,-1900,,,1900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-10-31,Q,2021,,,,,,,,,,-850,-850,,,,,573271545,,,,,,,,350,,,,1,,-350,0,-350,-5560,-4250,,,4250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

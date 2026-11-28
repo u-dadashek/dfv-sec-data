@@ -1,0 +1,11 @@
+period_end,kind,fiscal_year,revenue,cost_of_revenue,gross_profit,operating_income,da,ebitda,interest_expense,pretax_income,income_tax,net_income,net_income_common,preferred_dividends,eps,shares_basic,shares_diluted,shares_outstanding,cash,short_term_investments,receivables,inventory,current_assets,total_assets,current_liabilities,total_liabilities,short_term_debt,long_term_debt,debt,preferred_stock,minority_interest,equity,goodwill_intangibles,tangible_equity,retained_earnings,cfo,capex,cfi,cff,acquisitions,dividends_paid,buybacks,issuance,assets_avg,shares,sfcf,ncf,gross_margin,ebitda_margin,asset_turnover,toa,gross_inc_toa,cfebit,cfebit_toa,invested_capital,roic,crosic,book_ps,tangible_book_ps,dps,bm_eps,noncurrent_liabilities,net_excess_cash,net_common_overhang,operating_lease_current,operating_lease_noncurrent,split_adjusted,split_factor,dq_flags
+2026-09-30,Q,2026,,,,,,,,,,8846842,8846842,,,,,2050000,,,,,,37554555,,,,,,,,37554555,0,37554555,2389124,,,,,,,,,25235653,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-30,Q,2026,,,,,,,,,,-4079548,-4079548,,,,,1620000,,,,,,12916751,,,,,,,,12916751,0,12916751,-6368600,,,,,,,,,16863061.5,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-03-31,Q,2026,,,,,,,,,,-7993753,-7993753,,,,,1620000,,,,,,20809372,,2617579,,,,,,18191793,0,18191793,-2273528,,,,,,,,,26053911,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-12-31,Q,2025,,,,,,,,,,-12177501,-12177501,,,,,1390000,,,,,,31298450,,,,,,,,31298450,0,31298450,5761830,,,,,,,,,38607407.5,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-09-30,Q,2025,,,,,,,,,,16956542,16956542,,,,,1830000,,,,,,45916365,,1661,,,,,,45914704,0,45914704,17939331,,,,,,,,,34460277,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-06-30,Q,2025,,,,,,,,,,6457692,6457692,,,,,1990000,,,,,,23004189,,1635,,,,,,23002554,0,23002554,982789,,,,,,,,,15705996.5,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-03-31,Q,2025,,,,,,,,,,-9861010,-9861010,,,,,1790000,,,,,,8407804,,4383,,,,,,8403421,0,8403421,-5474903,,,,,,,,,12638841.5,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-12-31,Q,2024,,,,,,,,,,7608154,7608154,,,,,850000,,,,,,16869879,,,,,,,,16869879,0,16869879,4386107,,,,,,,,,14726432.5,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-09-30,Q,2024,,,,,,,,,,-3223608,-3223608,,,,,1410000,,,,,,12582986,,,,,,,,12582986,0,12582986,-3222047,,,,,,,,,6492263.5,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-06-30,Q,2024,,,,,,,,,,1561,1561,,,,,760000,59241,0,,,,401541,,59241,,,,,,342300,0,342300,-1561,,,,,,,,,,,,,,,,342300,,,,,,,,,,,,,,,,,,

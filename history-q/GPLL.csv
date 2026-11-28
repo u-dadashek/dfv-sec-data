@@ -1,0 +1,11 @@
+period_end,kind,fiscal_year,revenue,cost_of_revenue,gross_profit,operating_income,da,ebitda,interest_expense,pretax_income,income_tax,net_income,net_income_common,preferred_dividends,eps,shares_basic,shares_diluted,shares_outstanding,cash,short_term_investments,receivables,inventory,current_assets,total_assets,current_liabilities,total_liabilities,short_term_debt,long_term_debt,debt,preferred_stock,minority_interest,equity,goodwill_intangibles,tangible_equity,retained_earnings,cfo,capex,cfi,cff,acquisitions,dividends_paid,buybacks,issuance,assets_avg,shares,sfcf,ncf,gross_margin,ebitda_margin,asset_turnover,toa,gross_inc_toa,cfebit,cfebit_toa,invested_capital,roic,crosic,book_ps,tangible_book_ps,dps,bm_eps,noncurrent_liabilities,net_excess_cash,net_common_overhang,operating_lease_current,operating_lease_noncurrent,split_adjusted,split_factor,dq_flags
+2023-10-31,Q,2023,,,,,,,,,,-18236,-18236,,,,,226889221,9133,0,,,10778,10778,,141778,,,,,,-131000,0,-131000,-131000,-19881,,,19000,,,,,10396,,,,,,,1645,,,,,,,,,,,,,,,,,,
+2023-07-31,Q,2023,,,,,,,,,,-20792,-20792,,,,,176285321,10014,0,,,10014,10014,,122778,,,,,,-112764,0,-112764,-112764,-20792,,,30000,,,,,5410,,,,,,,0,,,,,,,,,,,,,,,,,,
+2023-04-30,Q,2023,,,,,,,,,,-12144,-12144,,,,,176285321,806,0,,,806,806,,92778,,,,,,-91972,0,-91972,-91972,-12144,,,10950,,,,,1403,,,,,,,0,,,,,,,,,,,,,,,,,,
+2023-01-31,Q,2023,,,,,,,,,,-4412,-4412,,,,,176285321,2000,0,,,2000,2000,,81828,,,,,,-79828,0,-79828,-79828,-4412,,,6412,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,
+2022-10-31,Q,2022,,,,,,,,,,-25395,-25395,,,,,0,,,,,,,,75416,,,,,,-75416,0,-75416,-75416,-25395,,,25395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-07-31,Q,2022,,,,,,,,,,-4027,-4027,,,,,176285321,,,,,,,,50021,,,,,,-50021,0,-50021,-50021,-4027,,,4027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-30,Q,2022,,,,,,,,,,-3675,-3675,,,,,176285321,,,,,,,,45994,,,,,,-45994,0,-45994,-45994,-4475,,,4475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-01-31,Q,2022,,,,,,,,,,-28037,-28037,,,,,,,,,,,,,42319,,,,,,-42319,0,-42319,-42319,-28037,,,28037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-10-31,Q,2021,,,,,,,,,,-8872,-8872,,,,,0,,,,,,,,14282,,,,,,-14282,0,-14282,-14282,-12522,,,12522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,DQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zero_absent:2021q4sh_outstanding-2022q4sh_outstanding

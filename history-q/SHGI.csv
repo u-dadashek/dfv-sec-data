@@ -1,0 +1,11 @@
+period_end,kind,fiscal_year,revenue,cost_of_revenue,gross_profit,operating_income,da,ebitda,interest_expense,pretax_income,income_tax,net_income,net_income_common,preferred_dividends,eps,shares_basic,shares_diluted,shares_outstanding,cash,short_term_investments,receivables,inventory,current_assets,total_assets,current_liabilities,total_liabilities,short_term_debt,long_term_debt,debt,preferred_stock,minority_interest,equity,goodwill_intangibles,tangible_equity,retained_earnings,cfo,capex,cfi,cff,acquisitions,dividends_paid,buybacks,issuance,assets_avg,shares,sfcf,ncf,gross_margin,ebitda_margin,asset_turnover,toa,gross_inc_toa,cfebit,cfebit_toa,invested_capital,roic,crosic,book_ps,tangible_book_ps,dps,bm_eps,noncurrent_liabilities,net_excess_cash,net_common_overhang,operating_lease_current,operating_lease_noncurrent,split_adjusted,split_factor,dq_flags
+2023-09-30,Q,2023,,,,,,,,,,-38025,-38025,,,,,,107159,0,,,,107159,,0,,,,,,,,,107159,-23560,,,30500,,,,,103689,,,,,,,0,,,,,,,,,,,,,,,,,,
+2023-06-30,Q,2023,,,,,,,,,,-16935,-16935,,,,,,100219,0,,,,100219,,600,,,,,,99619,0,99619,-58138,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,
+2023-03-31,Q,2023,,,,,,,,,,-13920,-13920,,,,,278825031,0,0,,,,,,,,,,,,,,,-41202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-12-31,Q,2022,,,,,,,,,,-2054,-2054,,,,,,,,,,,,,,,,,,,,,,-27282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-09-30,Q,2022,,,,,,,,,,-14775,-14775,,,,,,0,0,,,,,,,,,,,,,,,-25228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-06-30,Q,2022,,,,,,,,,,-2161,-2161,,,,,178750031,0,0,,,,,,,,,,,,,,,-10453,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-03-31,Q,2022,,,,,,,,,,-950,-950,,,,,,,,,,,,,350,,,,,,-350,0,-350,-8292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-31,Q,2021,,,,,,,,,,-1850,-1850,,,,,178750031,,,,,,,,350,,,,,,-350,0,-350,-7342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-09-30,Q,2021,,,,,,,,,,-782,-782,,,,,178750031,0,0,,,,,,500,,,,,,-500,0,-500,-5492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,DQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gap:equity:2022q2-2022q3-2022q4-2023q1

@@ -1,0 +1,8 @@
+period_end,kind,fiscal_year,revenue,cost_of_revenue,gross_profit,operating_income,da,ebitda,interest_expense,pretax_income,income_tax,net_income,net_income_common,preferred_dividends,eps,shares_basic,shares_diluted,shares_outstanding,cash,short_term_investments,receivables,inventory,current_assets,total_assets,current_liabilities,total_liabilities,short_term_debt,long_term_debt,debt,preferred_stock,minority_interest,equity,goodwill_intangibles,tangible_equity,retained_earnings,cfo,capex,cfi,cff,acquisitions,dividends_paid,buybacks,issuance,assets_avg,shares,sfcf,ncf,gross_margin,ebitda_margin,asset_turnover,toa,gross_inc_toa,cfebit,cfebit_toa,invested_capital,roic,crosic,book_ps,tangible_book_ps,dps,bm_eps,noncurrent_liabilities,net_excess_cash,net_common_overhang,operating_lease_current,operating_lease_noncurrent,split_adjusted,split_factor,dq_flags
+2026-09-30,Q,2026,,,,-41000,,,,,,16233000,16233000,,,,,2768900,,,,,,48572000,,2496000,,,,,,,,,,,,,,,-20955,,,34805000,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-30,Q,2026,,,,-34000,,,,,,-4543000,-4543000,,,,,2088900,,,,,,21038000,,0,,,,,,,,,,,,,,,,,,25720000,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-03-31,Q,2026,,,,-23000,,,,,,-3623000,-3623000,,,,,2398900,,,,,,30402000,,1000,,,,,,,,,,,,,,,,,,17351500,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-12-31,Q,2025,,,,,,,,,,-5809000,-5809000,,,,,212900,,,,,,4301000,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-09-30,Q,2025,,,,-70000,,,,,,1309000,1309000,,,,,212700,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-06-30,Q,2025,,,,-60000,,,,,,1650000,1650000,,,,,212700,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-03-31,Q,2025,,,,-65000,,,,,,-5932000,-5932000,,,,,210600,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+period_end,kind,fiscal_year,revenue,cost_of_revenue,gross_profit,operating_income,da,ebitda,interest_expense,pretax_income,income_tax,net_income,net_income_common,preferred_dividends,eps,shares_basic,shares_diluted,shares_outstanding,cash,short_term_investments,receivables,inventory,current_assets,total_assets,current_liabilities,total_liabilities,short_term_debt,long_term_debt,debt,preferred_stock,minority_interest,equity,goodwill_intangibles,tangible_equity,retained_earnings,cfo,capex,cfi,cff,acquisitions,dividends_paid,buybacks,issuance,assets_avg,shares,sfcf,ncf,gross_margin,ebitda_margin,asset_turnover,toa,gross_inc_toa,cfebit,cfebit_toa,invested_capital,roic,crosic,book_ps,tangible_book_ps,dps,bm_eps,noncurrent_liabilities,net_excess_cash,net_common_overhang,operating_lease_current,operating_lease_noncurrent,split_adjusted,split_factor,dq_flags
+2026-09-30,Q,2026,,,,,,,,,,3375124883,3375124883,,24.21,,,136813284,,,,,,,,,,,,,,,,,,-623276868,,,623276328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-30,Q,2026,,,,,,,,,,-1502122404,-1502122404,,-3.78,,,385000000,,,,,,,,,,,,,,,,,,409106841,,,-409108345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-03-31,Q,2026,,,,-4969537,,,,,,-2996490501,-2996490501,,-6.87,,,413520000,,,,,,,,,,,,,,,,,,726798081,,,-726804191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-12-31,Q,2025,,,,-8320759,,,,,,-4698323219,-4698323219,,,,,441480000,,,,,,,,,,,,,,,,,,889960424,,,-889989932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-09-30,Q,2025,,,,-7712932,,,,,,3556795972,3556795972,,8.59,,,528000000,,,,,,,,,,,,,,,,,,-7796738810,,,7796763678,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-06-30,Q,2025,,,,-1130750,,,,,,759515819,759515819,,4.22,,,400360000,,,,,,,,,,,,,,,,,,-1443805474,,,1443821523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-03-31,Q,2025,,,,-1246649,,,,,,-1933481580,-1933481580,,-11.84,,,165520000,,,,,,,,,,,,,,,,,,-548642293,,,548610032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-12-31,Q,2024,,,,-716709,,,,,,172531567,172531567,,,,,170720000,,,,,,,,,,,,,,,,,,-2379354294,,,2379388057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-09-30,Q,2024,,,,-171857,,,,,,-138702639,-138702639,,-4.67,,,61560000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
