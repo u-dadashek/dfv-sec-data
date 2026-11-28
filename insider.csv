@@ -1,4 +1,66 @@
 X,Filing Date,Trade Date,Ticker,Company Name,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value
+,2026-11-27 18:41:18,2026-11-25,MXF,MEXICO FUND INC,"Saba Capital Management, L.P.",10%,P - Purchase,20.1465,112736,2813498,+4%,2271239.48
+,2026-11-27 18:25:32,2026-11-25,DXYZ,Destiny Tech100 Inc.,"Saba Capital Management, L.P.",10%,P - Purchase,23.35,169040,5187250,+3%,3947084
+,2026-11-27 18:03:23,2026-11-24,AARD,"Aardvark Therapeutics, Inc.",Lee Tien-Li,"Chief Executive Officer, Dir, 10%",P - Purchase,0.966,50000,1601613,+3%,48300
+,2026-11-27 18:01:39,2026-11-25,GF,NEW GERMANY FUND INC,"Saba Capital Management, L.P.",10%,P - Purchase,9.3,10401,3924675,+0%,96729.3
+,2026-11-27 17:59:18,2026-11-25,GEOS,GEOSPACE TECHNOLOGIES CORP,Bushey Ronald Todd,Chief Technical Officer,P - Purchase,2.1689,5000,20434,+32%,10844.35
+,2026-11-27 17:48:52,2026-11-25,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,10.34,1373,2211733,+0%,14196.82
+,2026-11-27 17:40:03,2026-11-27,LAB,STANDARD BIOTOOLS INC.,"Casdin Partners Master Fund, L.P.","Dir, 10%",P - Purchase,0.6395,85000,77535000,+0%,54357.5
+,2026-11-27 17:40:03,2026-11-25,LAB,STANDARD BIOTOOLS INC.,"Casdin Partners Master Fund, L.P.","Dir, 10%",P - Purchase,0.6217,100000,77450000,+0%,62170
+,2026-11-27 17:40:03,2026-11-24,LAB,STANDARD BIOTOOLS INC.,"Casdin Partners Master Fund, L.P.","Dir, 10%",P - Purchase,0.5908,3361393,77350000,+5%,1985910.98
+,2026-11-27 17:36:04,2026-11-27,BETA,"BETA Technologies, Inc.",Stone Michael Robert,Dir,P - Purchase,17.053,20000,1892994.023,+1%,341060
+,2026-11-27 17:36:04,2026-11-25,BETA,"BETA Technologies, Inc.",Stone Michael Robert,Dir,P - Purchase,15.7812,40000,1872994.023,+2%,631248
+,2026-11-27 17:36:04,2026-11-24,BETA,"BETA Technologies, Inc.",Stone Michael Robert,Dir,P - Purchase,15.7406,40000,1832994.023,+2%,629624
+,2026-11-27 17:34:32,2026-11-25,ECF,ELLSWORTH GROWTH & INCOME FUND LTD,"Saba Capital Management, L.P.",10%,P - Purchase,9.83,15038,1938660,+1%,147823.54
+,2026-11-27 17:13:33,2026-11-24,VENU,Venu Holding Corp,ROTH JAY W,"CEO & Chairman, Dir, 10%",P - Purchase,1.061,7368,9283781,+0%,7817.45
+,2026-11-27 16:58:21,2026-11-24,IESC,"IES Holdings, Inc.",Simmes Matthew J,President and CEO,P - Purchase,166.6,247,142778,+0%,41150.2
+,2026-11-27 16:53:29,2026-11-24,IESC,"IES Holdings, Inc.",Gendell David B.,Dir,P - Purchase,163.25,4000,16000,+33%,653000
+,2026-11-27 16:41:48,2026-11-26,CRESY,CRESUD INC,Elsztain Alejandro Gustavo,Dir,P - Purchase,0.84,6730,7564147,+0%,5653.2
+,2026-11-27 16:30:40,2026-11-25,LND,BrasilAgro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Dir,P - Purchase,2.9272,4200,749430,+1%,12294.24
+,2026-11-27 16:30:40,2026-11-24,LND,BrasilAgro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Dir,P - Purchase,2.8688,6310,745230,+1%,18102.13
+,2026-11-27 16:15:03,2026-11-25,OBDC,Blue Owl Capital Corp,Nicholson Logan,President,P - Purchase,10.96,4102,95102,+5%,44957.92
+,2026-11-27 16:05:24,2026-11-25,CCG,Cheche Group Inc.,Zhang Lei,"Chief Executive Officer, Dir, 10%",P - Purchase,10.36,120000,120000,New,1243200
+,2026-11-27 16:04:08,2026-11-25,SEI,"Solaris Energy Infrastructure, Inc.",TEAGUE AJ,Dir,P - Purchase,55.97,400,16775,+2%,22388
+,2026-11-27 16:04:08,2026-11-24,SEI,"Solaris Energy Infrastructure, Inc.",TEAGUE AJ,Dir,P - Purchase,55.35,180,16375,+1%,9963
+,2026-11-27 16:01:07,2026-11-25,SKYD,Skydance Corp,Cardinale Gerald J.,Dir,P - Purchase,6.315,7880,358660,+2%,49762.2
+,2026-11-27 16:01:07,2026-11-24,SKYD,Skydance Corp,Cardinale Gerald J.,Dir,P - Purchase,6.6481,15060,350780,+4%,100120.39
+,2026-11-27 15:00:06,2026-11-24,QTRX,Quanterix Corp,DONNELLY WILLIAM P,Dir,P - Purchase,2.17,250000,349400,+252%,542500
+,2026-11-27 14:54:31,2026-11-20,TRMD,TORM plc,Balle Kim,Chief Financial Officer,P - Purchase,32.58,85,595,+17%,2769.3
+,2026-11-27 14:44:32,2026-11-24,GRNT,"Granite Ridge Resources, Inc.",MCCARTNEY JOHN,Dir,P - Purchase,5.57,2000,156143,+1%,11140
+,2026-11-27 14:39:05,2026-11-25,NGS,NATURAL GAS SERVICES GROUP INC,Jacobs Justin,Chief Executive Officer,P - Purchase,27.5,300,30056,+1%,8250
+,2026-11-27 13:30:29,2026-11-27,OM,"Outset Medical, Inc.",Leonard Braden Michael,10%,P - Purchase,3.0999,2900,2783697,+0%,8989.71
+,2026-11-27 13:30:29,2026-11-25,OM,"Outset Medical, Inc.",Leonard Braden Michael,10%,P - Purchase,2.7805,16187,2780797,+1%,45007.95
+,2026-11-27 13:22:39,2026-11-25,LENZ,"LENZ Therapeutics, Inc.",Leonard Braden Michael,10%,P - Purchase,2.8254,88620,3228888,+3%,250386.95
+,2026-11-27 13:22:39,2026-11-24,LENZ,"LENZ Therapeutics, Inc.",Leonard Braden Michael,10%,P - Purchase,2.9038,50000,3240268,+2%,145190
+,2026-11-27 13:10:19,2026-11-24,SYRA,Syra Health Corp,Mereddy Radhika,Dir,P - Purchase,0.3587,2006,2006,New,719.55
+,2026-11-27 13:01:40,2026-11-24,PRFX,PRF Technologies Ltd.,Shavit Asaf,Dir,P - Purchase,0.7,37879,37879,New,26515.3
+,2026-11-27 13:01:18,2026-11-25,PRFX,PRF Technologies Ltd.,Cohen-Arazi Efraim,"Interim CEO, Dir",P - Purchase,0.76,6100,50000,+14%,4636
+,2026-11-27 13:01:18,2026-11-24,PRFX,PRF Technologies Ltd.,Cohen-Arazi Efraim,"Interim CEO, Dir",P - Purchase,0.72,9900,43900,+29%,7128
+,2026-11-27 13:01:18,2026-11-13,PRFX,PRF Technologies Ltd.,Cohen-Arazi Efraim,"Interim CEO, Dir",P - Purchase,0.77,10000,34000,+42%,7700
+,2026-11-27 13:01:18,2026-11-12,PRFX,PRF Technologies Ltd.,Cohen-Arazi Efraim,"Interim CEO, Dir",P - Purchase,0.75,10000,24000,+71%,7500
+,2026-11-27 13:01:18,2026-11-05,PRFX,PRF Technologies Ltd.,Cohen-Arazi Efraim,"Interim CEO, Dir",P - Purchase,0.8,11000,14000,+367%,8800
+,2026-11-27 13:01:18,2026-11-04,PRFX,PRF Technologies Ltd.,Cohen-Arazi Efraim,"Interim CEO, Dir",P - Purchase,0.67,3000,3000,New,2010
+,2026-11-27 12:38:28,2026-11-26,CMCL,Caledonia Mining Corp Plc,Wildeschutt Geralda,Dir,P - Purchase,17.69,4988,4988,New,88237.72
+,2026-11-27 11:38:20,2026-11-24,KLNG,"Koil Energy Solutions, Inc.",Intelligent Fanatics Capital Management LLC,10%,P - Purchase,2.15,3800,3172062,+0%,8170
+,2026-11-27 11:10:01,2026-11-25,THFF,FIRST FINANCIAL CORP /IN/,Brighton William Curtis,Dir,P - Purchase,73.2392,1000,25000,+4%,73239.2
+,2026-11-27 10:00:05,2026-11-25,PCYO,PURE CYCLE CORP,Fink Christopher,Dir,P - Purchase,10.01,2500,3623,+223%,25025
+,2026-11-27 09:55:24,2026-11-25,DGICA,DONEGAL GROUP INC,DONEGAL MUTUAL INSURANCE CO,10%,P - Purchase,19.0247,10000,14537941,+0%,190247
+,2026-11-27 09:55:24,2026-11-24,DGICA,DONEGAL GROUP INC,DONEGAL MUTUAL INSURANCE CO,10%,P - Purchase,19.0572,10000,14527941,+0%,190572
+,2026-11-27 09:42:39,2026-11-24,GLBS,GLOBUS MARITIME LTD,Feidakis Georgios,Dir,P - Purchase,2.45,90000,6668633,+1%,220500
+,2026-11-27 09:10:26,2026-11-25,FRAF,FRANKLIN FINANCIAL SERVICES CORP /PA/,Duffey Gregory A,Dir,P - Purchase,67.29,15,24093,+0%,1009.35
+,2026-11-27 09:05:38,2026-11-24,WRD,WeRide Inc.,Han Tony Xu,"Chairman and CEO, Dir",P - Purchase,0.9933,597918,1091352,+121%,593911.95
+,2026-11-27 09:04:25,2026-11-25,TMC,TMC the metals Co Inc.,Barron Gerard,"Chairman & CEO, Dir",P - Purchase,1.67,20000,41823445,+0%,33400
+,2026-11-27 08:59:55,2026-11-25,UXIN,Uxin Ltd,Dai Kun,"Chief Executive Officer, Dir",P - Purchase,0.6821,8200,245904,+3%,5593.22
+,2026-11-27 08:56:13,2026-11-25,OWLS,OBOOK HOLDINGS INC.,WANG CHUN KAI,"Chief Executive Officer, Dir",P - Purchase,2.0163,4080,3197047,+0%,8226.5
+,2026-11-27 08:50:22,2026-11-24,PESI,PERMA FIX ENVIRONMENTAL SERVICES INC,Eshleman Troy,Chief Operating Officer,P - Purchase,12.77,100,1450,+7%,1277
+,2026-11-27 08:34:44,2026-11-25,AMCI,AMC Robotics Corp,Da Shengwei (Sean),"CEO, Dir, 10%",P - Purchase,1.0152,11032,83121,+15%,11199.53
+,2026-11-27 08:34:44,2026-11-24,AMCI,AMC Robotics Corp,Da Shengwei (Sean),"CEO, Dir, 10%",P - Purchase,0.9719,39100,1431483,+3%,37999.5
+,2026-11-27 08:01:20,2026-11-25,ELTK,ELTEK LTD,Nissan Yitzhak,Dir,P - Purchase,4.3283,1200,4080229,+0%,5193.96
+,2026-11-27 08:00:03,2026-11-24,TRBG,Turbogen Ltd.,KATZ ALEX,Dir,P - Purchase,2.738,1826,1290428,+0%,4999.59
+,2026-11-27 06:44:55,2026-11-25,API,"Agora, Inc.",Zhao Bin,"Chief Executive Officer, Dir",P - Purchase,3.1624,36697,2429064,+2%,116050.59
+,2026-11-27 06:44:55,2026-11-24,API,"Agora, Inc.",Zhao Bin,"Chief Executive Officer, Dir",P - Purchase,3.2197,35911,2392367,+2%,115622.65
+,2026-11-27 06:02:51,2026-11-25,SPCB,SuperCom Ltd,Trabelsi Arie,Dir,P - Purchase,6.38,1100,33348,+3%,7018
+,2026-11-27 06:02:51,2026-11-24,SPCB,SuperCom Ltd,Trabelsi Arie,Dir,P - Purchase,6.67,9419,32248,+41%,62824.73
 ,2026-11-25 20:05:14,2026-11-24,SER,"Serina Therapeutics, Inc.",Bailey Gregory,Dir,P - Purchase,1.37,5004,8574487,+0%,6855.48
 ,2026-11-25 20:05:14,2026-11-23,SER,"Serina Therapeutics, Inc.",Bailey Gregory,Dir,P - Purchase,1.38,5101,8569483,+0%,7039.38
 ,2026-11-25 19:46:08,2026-11-23,SNFI,Stark Novus Financial Inc.,ZYNGIER ALEXANDRE,Dir,P - Purchase,1.27,31241,349776,+10%,39676.07
@@ -16370,118 +16432,3 @@ X,Filing Date,Trade Date,Ticker,Company Name,Insider Name,Title,Trade Type,Price
 ,2025-11-21 08:45:10,2025-11-19,SLS,"SELLAS Life Sciences Group, Inc.",Kalin Katherine Bach,Dir,P - Purchase,1.59,63400,104400,+155%,100806
 ,2025-11-21 08:13:37,2025-11-19,NRDY,Nerdy Inc.,Cohn Charles K.,"Chief Executive Officer, Dir, 10%",P - Purchase,0.91,270578,30779769,+1%,246225.98
 ,2025-11-21 06:32:50,2025-11-20,UPXI,"UPEXI, INC.",Salkind Gene,Dir,P - Purchase,2.55,50000,218750,+30%,127500
-,2025-11-20 21:01:35,2025-11-18,RHLD,"Resolute Holdings Management, Inc.",Schoen Kurt,Chief Financial Officer,P - Purchase,149.23,900,1900,+90%,134307
-,2025-11-20 21:00:37,2025-11-18,RHLD,"Resolute Holdings Management, Inc.",Mahoney Timothy O.,Dir,P - Purchase,152.98,3268.305,9207.305,+55%,499985.3
-,2025-11-20 20:50:05,2025-11-12,WHF,"WhiteHorse Finance, Inc.",Volpe John Paul,Dir,P - Purchase,6.95,1000,1000,New,6950
-,2025-11-20 20:41:01,2025-11-18,HLF,HERBALIFE LTD.,Cloud Lynda,Dir,P - Purchase,8.97,17000,38857,+78%,152490
-,2025-11-20 20:29:51,2025-11-19,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,3.031,1088738,9469116,+13%,3299964.88
-,2025-11-20 20:29:51,2025-11-18,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,3.0463,293459,8380378,+4%,893964.15
-,2025-11-20 20:08:31,2025-11-19,NRDE,NU RIDE INC.,ZYNGIER ALEXANDRE,Dir,P - Purchase,1.36,47096,249728,+23%,64050.56
-,2025-11-20 20:08:31,2025-11-18,NRDE,NU RIDE INC.,ZYNGIER ALEXANDRE,Dir,P - Purchase,1.35,10156,202632,+5%,13710.6
-,2025-11-20 20:03:36,2025-11-20,NWTG,"Newton Golf Company, Inc.",Hoge Brett Widney,Dir,P - Purchase,1.1959,4000,250371,+2%,4783.6
-,2025-11-20 20:03:36,2025-11-19,NWTG,"Newton Golf Company, Inc.",Hoge Brett Widney,Dir,P - Purchase,1.1647,15000,246371,+6%,17470.5
-,2025-11-20 20:03:36,2025-11-18,NWTG,"Newton Golf Company, Inc.",Hoge Brett Widney,Dir,P - Purchase,1.0738,83000,231371,+56%,89125.4
-,2025-11-20 19:45:54,2025-11-20,LAB,STANDARD BIOTOOLS INC.,"Casdin Partners Master Fund, L.P.","Dir, 10%",P - Purchase,1.3028,450000,64050000,+1%,586260
-,2025-11-20 19:45:54,2025-11-19,LAB,STANDARD BIOTOOLS INC.,"Casdin Partners Master Fund, L.P.","Dir, 10%",P - Purchase,1.2826,350000,63600000,+1%,448910
-,2025-11-20 19:45:54,2025-11-18,LAB,STANDARD BIOTOOLS INC.,"Casdin Partners Master Fund, L.P.","Dir, 10%",P - Purchase,1.2342,275000,63250000,+0%,339405
-,2025-11-20 19:34:57,2025-11-20,SUNS,"Sunrise Realty Trust, Inc.",TANNENBAUM LEONARD M,"Executive Chairman, Dir, 10%",P - Purchase,9.39,21408,2998226,+1%,201021.12
-,2025-11-20 19:34:57,2025-11-19,SUNS,"Sunrise Realty Trust, Inc.",TANNENBAUM LEONARD M,"Executive Chairman, Dir, 10%",P - Purchase,9.48,3592,2976818,+0%,34052.16
-,2025-11-20 19:34:57,2025-11-18,SUNS,"Sunrise Realty Trust, Inc.",TANNENBAUM LEONARD M,"Executive Chairman, Dir, 10%",P - Purchase,9.45,17790,2973226,+1%,168115.5
-,2025-11-20 19:34:42,2025-11-20,RDGL,VIVOS INC,Korenko Michael K,"CEO AND PRESIDENT, Dir",P - Purchase,0.0622,100000,10635090,+1%,6220
-,2025-11-20 19:29:41,2025-11-18,SVCO,"Silvaco Group, Inc.",Ngai Anthony K.K.,Dir,P - Purchase,4.2559,10000,90777,+12%,42559
-,2025-11-20 19:03:11,2025-10-01,PRPO,"Precipio, Inc.",Sabet Ahmed Zaki,Chief Operating Officer,P - Purchase,19.5,25,715,+4%,487.5
-,2025-11-20 19:02:28,2025-11-18,MSM,MSC INDUSTRIAL DIRECT CO INC,JACOBSON MITCHELL,"Dir, 10%",P - Purchase,84.9601,22870,2328192,+1%,1943037.49
-,2025-11-20 19:01:42,2025-07-08,PRPO,"Precipio, Inc.",Sabet Ahmed Zaki,Chief Operating Officer,P - Purchase,16.3,31,690,+5%,505.3
-,2025-11-20 19:00:08,2025-11-18,TRIN,Trinity Capital Inc.,Brown Steve Louis,"Executive Chairman, Dir",P - Purchase,14.52,2137,820603,+0%,31029.24
-,2025-11-20 19:00:03,2025-11-19,TRIN,Trinity Capital Inc.,Estes Ronald E.,Dir,P - Purchase,14.43,1000,36943.696,+3%,14430
-,2025-11-20 19:00:03,2025-11-18,TRIN,Trinity Capital Inc.,Estes Ronald E.,Dir,P - Purchase,14.45,500,35943.696,+1%,7225
-,2025-11-20 18:56:57,2025-11-20,SCKT,"SOCKET MOBILE, INC.",BASS CHARLIE,"Dir, 10%",P - Purchase,1.21,5000,1671952,+0%,6050
-,2025-11-20 18:56:57,2025-11-19,SCKT,"SOCKET MOBILE, INC.",BASS CHARLIE,"Dir, 10%",P - Purchase,1.2427,5000,1666952,+0%,6213.5
-,2025-11-20 18:38:51,2025-11-20,TENX,"TENAX THERAPEUTICS, INC.",Giordano Christopher Thomas,"CEO, Dir",P - Purchase,7.5887,538,2605,+26%,4082.72
-,2025-11-20 18:38:51,2025-11-19,TENX,"TENAX THERAPEUTICS, INC.",Giordano Christopher Thomas,"CEO, Dir",P - Purchase,7.5091,455,2067,+28%,3416.64
-,2025-11-20 18:38:51,2025-11-18,TENX,"TENAX THERAPEUTICS, INC.",Giordano Christopher Thomas,"CEO, Dir",P - Purchase,7.7546,1612,1612,New,12500.42
-,2025-11-20 18:27:17,2025-11-19,NXDT,NEXPOINT DIVERSIFIED REAL ESTATE TRUST,Richards Paul,See Remarks,P - Purchase,2.78,5000,119820.1,+4%,13900
-,2025-11-20 18:26:29,2025-11-20,ALRM,"Alarm.com Holdings, Inc.",Trundle Stephen,"Chief Executive Officer, Dir",P - Purchase,48.066,10000,1315343,+1%,480660
-,2025-11-20 18:26:29,2025-11-19,ALRM,"Alarm.com Holdings, Inc.",Trundle Stephen,"Chief Executive Officer, Dir",P - Purchase,48.53,12469,1305343,+1%,605120.57
-,2025-11-20 18:26:29,2025-11-18,ALRM,"Alarm.com Holdings, Inc.",Trundle Stephen,"Chief Executive Officer, Dir",P - Purchase,48.57,3531,1292874,+0%,171500.67
-,2025-11-20 18:22:57,2025-11-20,GLOO,"Gloo Holdings, Inc.",GELSINGER PATRICK P,"See Remarks, Dir",P - Purchase,8,125000,125000,New,1000000
-,2025-11-20 18:21:15,2025-11-20,GLOO,"Gloo Holdings, Inc.",FURST JACK D,Dir,P - Purchase,8,250000,250000,New,2000000
-,2025-11-20 18:19:49,2025-11-20,GLOO,"Gloo Holdings, Inc.",Green Derek Todd,Dir,P - Purchase,8,250000,250000,New,2000000
-,2025-11-20 18:18:25,2025-11-20,GLOO,"Gloo Holdings, Inc.",Gotschall Matthew,See Remarks,P - Purchase,8,250,250,New,2000
-,2025-11-20 18:16:28,2025-11-20,GLOO,"Gloo Holdings, Inc.",Beck Scott Arthur,"President and CEO, Dir, 10%",P - Purchase,8,412500,412500,New,3300000
-,2025-11-20 18:13:28,2025-11-20,WDI,Western Asset Diversified Income Fund (WDI),Sale Hillary A,Dir,P - Purchase,14.2106,1410,1410,New,20036.95
-,2025-11-20 18:10:53,2025-11-20,OPK,"OPKO HEALTH, INC.",FROST PHILLIP MD ET AL,"CEO & Chairman, Dir, 10%",P - Purchase,1.3299,580000,216126448,+0%,771327.7
-,2025-11-20 18:03:47,2025-11-19,GTE,GRAN TIERRA ENERGY INC.,Equinox Partners Investment Management LLC,"Dir, 10%",P - Purchase,4.36,30400,5009583,+1%,132544
-,2025-11-20 18:03:47,2025-11-18,GTE,GRAN TIERRA ENERGY INC.,Equinox Partners Investment Management LLC,"Dir, 10%",P - Purchase,4.23,35780,4979183,+1%,151349.4
-,2025-11-20 18:02:42,2025-11-19,IPSC,"Century Therapeutics, Inc.",Pfeiffenberger Brent,"President and CEO, Dir",P - Purchase,0.4951,35000,3271453,+1%,17328.5
-,2025-11-20 17:57:08,2025-11-20,CTEV,Claritev Corp,Dalton Travis,"Pres., CEO & Executive Chair, Dir",P - Purchase,47.2291,5290,9572,+124%,249841.94
-,2025-11-20 17:50:43,2025-11-19,CNS,"COHEN & STEERS, INC.",STEERS ROBERT HAMILTON,"Executive Chairman, Dir, 10%",P - Purchase,59.8752,25000,11044681,+0%,1496880
-,2025-11-20 17:50:18,2025-11-20,CNS,"COHEN & STEERS, INC.",COHEN MARTIN,"Dir, 10%",P - Purchase,60.83,12708,949205,+1%,773027.64
-,2025-11-20 17:50:18,2025-11-19,CNS,"COHEN & STEERS, INC.",COHEN MARTIN,"Dir, 10%",P - Purchase,59.6612,37292,936497,+4%,2224884.19
-,2025-11-20 17:50:18,2025-11-18,CNS,"COHEN & STEERS, INC.",COHEN MARTIN,"Dir, 10%",P - Purchase,59.69,50000,899205,+6%,2984500
-,2025-11-20 17:40:08,2025-11-19,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III,"Executive Chairman, Dir, 10%",P - Purchase,0.229,50000,274905,+22%,11450
-,2025-11-20 17:40:08,2025-11-18,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III,"Executive Chairman, Dir, 10%",P - Purchase,0.2372,209456,248455,+537%,49679.54
-,2025-11-20 17:40:08,2025-09-11,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III,"Executive Chairman, Dir, 10%",P - Purchase,0.37,500,19750,+3%,185
-,2025-11-20 17:39:26,2025-11-19,SAVA,CASSAVA SCIENCES INC,Barry Richard,"President & CEO, Dir",P - Purchase,2.75,73385,788060,+10%,201808.75
-,2025-11-20 17:25:11,2025-11-19,PDYN,Palladyne AI Corp.,Wolff Benjamin G,"PRESIDENT & CEO, Dir",P - Purchase,5.404,8000,2833401,+0%,43232
-,2025-11-20 17:23:02,2025-11-20,ET,Energy Transfer LP,WARREN KELCY L,Dir,P - Purchase,16.81,1000000,105577803,+1%,16810000
-,2025-11-20 17:23:02,2025-11-19,ET,Energy Transfer LP,WARREN KELCY L,Dir,P - Purchase,16.95,1000000,104577803,+1%,16950000
-,2025-11-20 17:16:37,2025-11-18,MXF,MEXICO FUND INC,"Saba Capital Management, L.P.",10%,P - Purchase,19.15,47273,1597698,+3%,905277.95
-,2025-11-20 17:10:58,2025-11-20,AISP,"Airship AI Holdings, Inc.",Huang Victor,"CEO and Chairman of the BOD, Dir, 10%",P - Purchase,3.1762,51000,194849,+35%,161986.2
-,2025-11-20 17:04:15,2025-11-18,LBRA,1847 Holdings LLC,Roberts Ellery,"Chairman and CEO, Dir",P - Purchase,0.0085,100000,301090,+50%,850
-,2025-11-20 17:00:33,2025-11-20,SELF,"Global Self Storage, Inc.",WINMILL & CO. INC,"See ""Explanation of Responses""",P - Purchase,5.0838,5870,121527,+5%,29841.91
-,2025-11-20 17:00:33,2025-11-19,SELF,"Global Self Storage, Inc.",WINMILL & CO. INC,"See ""Explanation of Responses""",P - Purchase,5.1349,6226,115657,+6%,31969.89
-,2025-11-20 16:59:56,2025-11-20,GLP,GLOBAL PARTNERS LP,Global GP LLC,General Partner,P - Purchase,42.96,3066,184622,+2%,131715.36
-,2025-11-20 16:59:56,2025-11-19,GLP,GLOBAL PARTNERS LP,Global GP LLC,General Partner,P - Purchase,42.56,2500,181556,+1%,106400
-,2025-11-20 16:59:56,2025-11-18,GLP,GLOBAL PARTNERS LP,Global GP LLC,General Partner,P - Purchase,42.24,2241,179056,+1%,94659.84
-,2025-11-20 16:59:33,2025-11-19,ASA,ASA Gold & Precious Metals Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,48.16,10094,5213828,+0%,486127.04
-,2025-11-20 16:59:33,2025-11-18,ASA,ASA Gold & Precious Metals Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,47.2,2268,5203734,+0%,107049.6
-,2025-11-20 16:48:15,2025-11-20,IIPR,INNOVATIVE INDUSTRIAL PROPERTIES INC,Gold Alan D,"EXECUTIVE CHAIRMAN, Dir",P - Purchase,45.695,1000,58500,+2%,45695
-,2025-11-20 16:48:15,2025-11-19,IIPR,INNOVATIVE INDUSTRIAL PROPERTIES INC,Gold Alan D,"EXECUTIVE CHAIRMAN, Dir",P - Purchase,46.26,1000,57500,+2%,46260
-,2025-11-20 16:45:34,2025-11-20,IIPR,INNOVATIVE INDUSTRIAL PROPERTIES INC,Smith David Jon,CFO AND TREASURER,P - Purchase,45.9,600,600,New,27540
-,2025-11-20 16:42:46,2025-11-19,PEB,Pebblebrook Hotel Trust,SCHALL MICHAEL J,Dir,P - Purchase,10.85,10000,119693,+9%,108500
-,2025-11-20 16:42:09,2025-11-20,SLRX,"Salarius Pharmaceuticals, Inc.",Rosenblum Mark J,"Exec VP Finance, CFO",P - Purchase,0.8,20000,20177,+11299%,16000
-,2025-11-20 16:40:47,2025-11-18,SATS,EchoStar CORP,Brokaw George R,Dir,P - Purchase,68.07,1000,2754,+57%,68070
-,2025-11-20 16:30:07,2025-11-18,TSLX,"Sixth Street Specialty Lending, Inc.",Stanley Robert J.,"Co-CEO, Dir",P - Purchase,20.85,10000,24907.27,+67%,208500
-,2025-11-20 16:29:15,2025-11-18,ZBRA,ZEBRA TECHNOLOGIES CORP,Dhanasekaran Satish,Dir,P - Purchase,233.1183,1000,3356,+42%,233118.27
-,2025-11-20 16:22:07,2025-11-19,IVVD,"Invivyd, Inc.",MCLAUGHLIN KEVIN F,Dir,P - Purchase,2.5,50000,50000,New,125000
-,2025-11-20 16:20:48,2025-11-20,EVLV,"Evolv Technologies Holdings, Inc.",Shapiro Richard A,Dir,P - Purchase,6.007,46300,91415,+103%,278126
-,2025-11-20 16:17:43,2025-11-19,ARX,Accelerant Holdings,Gaynor Samuel,Dir,P - Purchase,13.4365,7500,7500,New,100773.75
-,2025-11-20 16:16:54,2025-11-19,QDEL,QuidelOrtho Corp,Blaser Brian J.,President and CEO,P - Purchase,21.3437,23500,29533,+390%,501576.95
-,2025-11-20 16:15:48,2025-11-20,MTCH,"Match Group, Inc.",Rascoff Spencer M,"Chief Executive Officer, Dir",P - Purchase,31.8351,14000,165128,+9%,445691.4
-,2025-11-20 16:12:47,2025-11-18,ARX,Accelerant Holdings,ONeill Francis James,"Co-Founder, Chief U/W Officer",P - Purchase,13.3371,38000,7235125,+1%,506809.8
-,2025-11-20 16:10:07,2025-11-19,NWTG,"Newton Golf Company, Inc.",CLAYBORNE JEFF,Chief Financial Officer,P - Purchase,1.05,11000,11548,+2007%,11550
-,2025-11-20 16:10:07,2025-11-18,NWTG,"Newton Golf Company, Inc.",CLAYBORNE JEFF,Chief Financial Officer,P - Purchase,1.05,548,548,New,575.4
-,2025-11-20 16:05:04,2025-11-18,PPSI,"PIONEER POWER SOLUTIONS, INC.",MAZUREK NATHAN,"Chief Executive Officer, Dir, 10%",P - Purchase,3.387,10000,1976496,+1%,33870
-,2025-11-20 16:02:40,2025-11-18,AVBC,"Avidia Bancorp, Inc.",Girard Michael R,Dir,P - Purchase,14.965,525,525,New,7856.63
-,2025-11-20 16:01:04,2025-11-19,WW,"WW INTERNATIONAL, INC.",Hawks Carney,Dir,P - Purchase,22.1449,29057,29057,New,643464.4
-,2025-11-20 16:01:02,2025-11-19,GOGO,Gogo Inc.,TOWNSEND CHARLES C,Dir,P - Purchase,7.1714,31228,168686,+23%,223948.48
-,2025-11-20 16:01:02,2025-11-18,GOGO,Gogo Inc.,TOWNSEND CHARLES C,Dir,P - Purchase,6.8679,58763,137458,+75%,403578.41
-,2025-11-20 16:00:32,2025-11-19,SILO,"Silo Pharma, Inc.",Weisblum Eric,"Chief Executive Officer, Dir",P - Purchase,0.405,4500,209932,+2%,1822.5
-,2025-11-20 16:00:32,2025-11-18,SILO,"Silo Pharma, Inc.",Weisblum Eric,"Chief Executive Officer, Dir",P - Purchase,0.4033,7500,205432,+4%,3024.75
-,2025-11-20 16:00:03,2025-11-19,LITS,"Lite Strategy, Inc.",Flynn James P,Dir,P - Purchase,1.8824,12100,30000,+68%,22777.04
-,2025-11-20 15:41:17,2025-11-11,GLGI,"GREYSTONE LOGISTICS, INC.",KRUGER WARREN F,"CEO & CFO, Dir, 10%",P - Purchase,0.7061,5000,8866854,+0%,3530.5
-,2025-11-20 15:28:48,2025-11-19,GRNT,"Granite Ridge Resources, Inc.",MCCARTNEY JOHN,Dir,P - Purchase,5.05,4000,103091,+4%,20200
-,2025-11-20 15:28:48,2025-11-18,GRNT,"Granite Ridge Resources, Inc.",MCCARTNEY JOHN,Dir,P - Purchase,5.07,4000,99091,+4%,20280
-,2025-11-20 14:32:39,2025-11-19,AMRZ,Amrize Ltd,Gangestad Nicholas C,Dir,P - Purchase,47.34,2000,4958,+68%,94680
-,2025-11-20 14:13:38,2025-11-20,BFS,"SAUL CENTERS, INC.",Heard Carlos Lawrence,Senior Vice President & CFO,P - Purchase,20.55,300,4000,+8%,6165
-,2025-11-20 14:10:12,2025-11-19,TPC,TUTOR PERINI CORP,SMALLEY GARY G.,"CEO and President, Dir",P - Purchase,61.0778,5000,118075,+4%,305389
-,2025-11-20 14:03:11,2025-11-13,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Dir,P - Purchase,4.5,2500,133113,+2%,11250
-,2025-11-20 13:58:21,2025-11-19,LCNB,LCNB CORP,Meilstrup Eric J,"CEO, Dir",P - Purchase,15.315,500,45705,+1%,7657.5
-,2025-11-20 13:45:42,2025-11-19,RCG,"RENN Fund, Inc.",STAHL MURRAY,"President/Co-Portfolio Manager, 10%",P - Purchase,2.66,1134,971200,+0%,3016.44
-,2025-11-20 13:42:46,2025-11-18,GDV,GABELLI DIVIDEND & INCOME TRUST,GABELLI MARIO J,Dir,P - Purchase,26.4894,5000,15000,+50%,132447
-,2025-11-20 13:41:26,2025-11-18,NIC,NICOLET BANKSHARES INC,MOORE HUBERT PHILLIP JR,CFO,P - Purchase,120.35,25,400,+7%,3008.75
-,2025-11-20 13:21:43,2025-11-19,FAST,FASTENAL CO,Nielsen Sarah N,Dir,P - Purchase,39.6,1000,5000,+25%,39600
-,2025-11-20 12:58:35,2025-11-19,TPL,Texas Pacific Land Corp,HORIZON KINETICS ASSET MANAGEMENT LLC,10%,P - Purchase,899.24,1,1162569,+0%,899.24
-,2025-11-20 12:46:21,2025-11-19,QNTO,"QUAINT OAK BANCORP, INC.",STRONG ROBERT T,"Chief Executive Officer, Dir",P - Purchase,10.35,900,205608,+0%,9315
-,2025-11-20 12:46:21,2025-11-18,QNTO,"QUAINT OAK BANCORP, INC.",STRONG ROBERT T,"Chief Executive Officer, Dir",P - Purchase,10.25,100,204708,+0%,1025
-,2025-11-20 11:53:25,2025-11-19,MPB,MID PENN BANCORP INC,Noone John E,Dir,P - Purchase,28.2806,2000,47400,+4%,56561.2
-,2025-11-20 11:42:46,2025-11-19,IRIX,IRIDEX CORP,Dizon Romeo R,Chief Financial Officer,P - Purchase,0.96,1000,82976,+1%,960
-,2025-11-20 11:35:50,2025-04-28,PLUR,Pluri Inc.,Manieu Alexandre Weinstein,"Dir, 10%",P - Purchase,4.61,452702,452702,New,2086956.22
-,2025-11-20 11:33:15,2025-11-18,SHBI,SHORE BANCSHARES INC,Kaslow Aaron Michael,"EVP,  Chief Legal Officer",P - Purchase,15.56,6500,6500,New,101140
-,2025-11-20 11:06:08,2025-11-19,COSM,Cosmos Health Inc.,Siokas Grigorios,"Chief Executive Officer, Dir, 10%",P - Purchase,0.6492,61614,6220498,+1%,39999.81
-,2025-11-20 09:24:14,2025-11-19,INTT,INTEST CORP,Maginnis Gerald J.,Dir,P - Purchase,7.44,6000,84057,+8%,44640
-,2025-11-20 09:18:09,2025-11-19,DGICA,DONEGAL GROUP INC,DONEGAL MUTUAL INSURANCE CO,10%,P - Purchase,19.6184,7587,13768361,+0%,148844.8
-,2025-11-20 09:18:09,2025-11-18,DGICA,DONEGAL GROUP INC,DONEGAL MUTUAL INSURANCE CO,10%,P - Purchase,19.8413,7104,13760774,+0%,140952.6
-,2025-11-20 09:01:22,2025-11-18,FOSL,"Fossil Group, Inc.",Martin Joe T,Chief Commercial Officer,P - Purchase,1.78,56180,185761,+43%,100000.4
-,2025-11-20 07:00:04,2025-11-18,ITRM,Iterum Therapeutics plc,Dunne Michael W.,Dir,P - Purchase,0.3652,6000,241001,+3%,2191.2
